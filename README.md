@@ -13,3 +13,9 @@ menu highlighting your personal information, contact information, and work. You 
 photo at the top part of the page and include a short description of your professional career and
 interests. Below this description, you can add a few work samples. The footer section can
 contain your social media handles.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Language We Use:
+JAVA
+CSS
+HTML
